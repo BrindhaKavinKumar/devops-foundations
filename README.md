@@ -5,5 +5,5 @@ Day 1: Linux and Git basics
 
 ## What I learned
 - Basic Linux commands
-- Git commit workflow.
+- Git commit workflow
 
